@@ -1,2 +1,2 @@
 # face-recognition
-An AI-driven expense tracking system that automates financial management.   Features: Automated/manual expense entry, intelligent categorization using NLP, real-time visualization dashboards.  Tech Stack: Python, NLP (NLTK/spaCy), SQLite, Matplotlib/Seaborn.
+A real-time face recognition application using OpenCV and Python that identifies and verifies individuals through webcam feed. Enhances security and automation for access control.
